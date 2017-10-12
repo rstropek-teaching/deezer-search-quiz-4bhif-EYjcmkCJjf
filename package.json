@@ -1,0 +1,14 @@
+{
+  "name": "deezer-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node Documents/deezer-search/index.js index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}
